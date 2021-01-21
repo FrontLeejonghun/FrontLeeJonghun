@@ -1,11 +1,11 @@
 ### Hi there 👋
-
+i am leejonghun
 ---
-### 💬 FrontEnd Programmer
+### 💬 FrontEnd engineer
 ---
 ### 🔭 Stack
 ---
-  * javscript           
+  * javascript           
   * vue         
   * nuxt    
   * Sass                  
