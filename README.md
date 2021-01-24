@@ -24,3 +24,4 @@ i am leejonghun
   * 📞 010-9760-3242
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrontLeejonghun)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FrontLeejonghun&show_icons=true&theme=radical)
