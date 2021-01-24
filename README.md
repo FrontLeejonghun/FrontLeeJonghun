@@ -22,3 +22,5 @@ i am leejonghun
 ---
   * 📧 leejonghun32425@gmail.com
   * 📞 010-9760-3242
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrontLeejonghun)](https://github.com/anuraghazra/github-readme-stats)
