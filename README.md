@@ -23,8 +23,11 @@ i am leejonghun
   * 📧 leejonghun32425@gmail.com
   * 📞 010-9760-3242
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FrontLeejonghun&show_icons=true&theme=radical)
-
-### 📁 do-side-project
+  ### 📁 do-side-project
 ---
   * https://github.com/curriculum-of-coding
+ 
+ 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FrontLeejonghun&show_icons=true&theme=radical)
+
+
