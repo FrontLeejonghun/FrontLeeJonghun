@@ -25,6 +25,8 @@ i am leejonghun
   * https://github.com/curriculum-of-coding
  
  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrontLeejonghun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FrontLeejonghun&show_icons=true&theme=radical)
 
 
