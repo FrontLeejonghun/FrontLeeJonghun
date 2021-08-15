@@ -14,7 +14,8 @@ i am leejonghun
   
 ### 💬 Blog
 ---
-  * https://velog.io/@u_sa_fe_dev
+  * https://velog.io/@ua_sa_front
+  * https://medium.com/@leejonghun
 ### 🙋‍♂️ contact
 ---
   * 📧 leejonghun32425@gmail.com
