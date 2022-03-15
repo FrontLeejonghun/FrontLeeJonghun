@@ -21,9 +21,7 @@ i am leejonghun
   * 📧 leejonghun32425@gmail.com
   * 📞 010-9760-3242
   
-  ### 📁 do-side-project
----
-  * https://github.com/curriculum-of-coding
+
  
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrontLeejonghun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
