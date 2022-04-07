@@ -7,7 +7,7 @@ i am leejonghun
 ---
   * https://velog.io/@ua_sa_front
   * https://medium.com/@leejonghun
-### 🙋‍♂️ contact
+### 🙋‍♂️ contac
 ---
   * 📧 leejonghun32425@gmail.com
   * 📞 010-9760-3242
